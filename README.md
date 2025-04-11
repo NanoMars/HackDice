@@ -8,11 +8,9 @@
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b5253507a66eca77392e345f8c0b672a63360e6d_activity_image_from_hack_club.png)
 
 ## Features
-- Low power design! 3V operating voltage
-- On board square wave generator
-- Selectable features through solder bridges
-- A Schematic on the back side!
-- Super cute cats on the front side - Kudos to @acornitum
+- Animated Dice rolling animation
+- Displays a random side of a 6 sided dice on a custom LED 7 segment display
+- USB C powered
 
 ## BOM
 - 7 	LED's
